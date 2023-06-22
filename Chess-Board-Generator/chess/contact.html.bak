@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact us</title>
+<link rel="stylesheet" type="text/css" href="contact_style.css">
+</head>
+<body>
+	<section class="contact">
+		<div class="content">
+			<h2>Contact Us</h2>
+			<p>Siddaganga Institute Of Technology TUMKUR, WE ARE AVAILABLE ANY TIME 24*7 </p>
+		</div>
+		<div class="container">
+			<div class="contactInfo">
+				<div class="box">
+					<div class="icon"><ion-icon name="location-outline"></ion-icon></div>
+					<div class="text">
+						<h3>Address</h3>
+						<p>Siddaganga Institute Of Technology,<br>TUMKUR<br>572103</p>
+					</div>
+				</div>
+				<div class="box">
+					<div class="icon"><ion-icon name="call-outline"></ion-icon></div>
+					<div class="text">
+						<h3>Phone</h3>
+						<p>8217869749</p>
+						<p>6362555647</p>
+						<p>9449539498</p>
+						<p>9036978599</p>
+						<p>9901846356</p>
+					</div>
+				</div>
+				<div class="box">
+					<div class="icon"><ion-icon name="mail-outline"></ion-icon></div>
+					<div class="text">
+						<h3>Email</h3>
+						<p>sit@gmail.com</p>
+					</div>
+				</div>
+				</form>
+			</div>
+		</div>
+	</section>
+	<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+	<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+</body>
+</html>
